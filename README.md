@@ -1,7 +1,6 @@
 ### Oii!! Eu sou a Giovanna Passos 👋
 
-- 🌱 Atualmente estou no 2°semestre de Desenvolvimento de Software Multiplataforma
-- 📫 Você pode me contatar no email: giovanna.figueirasilva@gmail.com
+- 🌱 Estou cursando o 2°semestre de Desenvolvimento de Software Multiplataforma
 - 😄 Meus pronomes são ela/dela!
 
 <div align="center">
@@ -21,3 +20,9 @@
 </div>
   
   ##
+
+  <div>
+    <a href = "mailto:giovanna.figueirasilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red"  target="_blank"></a>
+    <a href = https://whatsa.me/5511932853997)><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+     <a href = https://whatsa.me/5511932853997)><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white target="_blank"></a>
+  </div>
