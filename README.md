@@ -1,7 +1,6 @@
 ### Oii!! Eu sou a Giovanna Passos 👋😁
 
   Tenho 18 anos e estou cursando o 2°semestre de Desenvolvimento de Software Multiplataforma na Fatec Zona Leste. Eu literalmente 'caí de paraquedas' nessa área e sei que ainda tenho muito a aprender, mas também o que não falta é força de vontade!  <br>
-Ah, e meus pronomes são ela/dela!
   
 ### Ferramentas que eu estou aprendendo:
   <div style="display: inline_block"><br>
