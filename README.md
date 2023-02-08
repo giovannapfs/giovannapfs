@@ -12,11 +12,7 @@
  <src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>
   
-### A única ferramenta que domino (por enquanto):
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gigi-Canva" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
-  <src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
- 
+
 ### Você consegue falar comigo por aqui:
   <div>
     <a href = "mailto:giovanna.figueirasilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"  target="_blank"></a>
