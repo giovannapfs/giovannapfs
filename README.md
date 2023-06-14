@@ -28,5 +28,4 @@
   </div>
   
   #
-  
   ![snake gif](https://github.com/giovannapfs/giovannapfs/blob/output/github-contribution-grid-snake.svg)
