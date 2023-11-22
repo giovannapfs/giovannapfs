@@ -40,5 +40,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannapfs&layout=compact&langs_count=7&theme=bear&locale=pt-br"/>
   </div>
   
-  #
-  ![snake gif](https://github.com/giovannapfs/giovannapfs/blob/output/github-contribution-grid-snake.svg)
