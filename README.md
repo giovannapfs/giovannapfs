@@ -1,6 +1,6 @@
 ### Oii!! Eu sou a Giovanna Passos 👋😁
 
-  Tenho 20 anos e estou cursando o 5°semestre de Desenvolvimento de Software Multiplataforma na Fatec Zona Leste. <br>
+  Tenho 20 anos e estou cursando o 6°semestre de Desenvolvimento de Software Multiplataforma na Fatec Zona Leste. <br>
   
 ### Ferramentas que eu estou aprendendo:
 #### Desenvolvimento
