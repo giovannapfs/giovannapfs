@@ -1,6 +1,6 @@
 ### Oii!! Eu sou a Giovanna Passos 👋😁
 
-  Tenho 21 anos e me formei em Desenvolvimento de Software Multiplataforma na Fatec Zona Leste. <br>
+  Tenho 21 anos e sou formada em Desenvolvimento de Software Multiplataforma na Fatec Zona Leste. <br>
   
 ### Ferramentas que tenho conhecimento:
 #### Desenvolvimento
