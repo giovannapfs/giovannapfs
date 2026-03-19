@@ -1,6 +1,6 @@
 ### Oii!! Eu sou a Giovanna Passos 👋😁
 
-  Tenho 21 anos e sou formada em Desenvolvimento de Software Multiplataforma na Fatec Zona Leste. <br>
+  Tenho 21 anos e sou formada em Desenvolvimento de Software Multiplataforma na Fatec Zona Leste. Atualmente trabalho como professora de Programação e Robótica na Ctrl+Play Cangaíba.<br>
   
 ### Ferramentas que tenho conhecimento:
 #### Desenvolvimento
